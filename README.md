@@ -1,2 +1,2 @@
-# Sonal_Gupta_resume
-This is Sonal Gupta Portfolio
+# portfolio-rla
+Ram Lal Anand College(DU), Principal's Portfolio 
